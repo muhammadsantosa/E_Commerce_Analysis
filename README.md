@@ -9,7 +9,7 @@ SQL: PopSQL
 
 Python: Jupyter Notebooks
 - Extracted data from SQLite database using the sqlite3 library
-- Explored the use of XGBoost regression models to determine factors that correlate the most to the customer lifetime value
+- Explored the use of XGBoost regression models to determine factors that correlate the most to the customer lifetime value by looking at feature importance
 - Evaluated the model using the mean absolute error and root mean squared error
 
 More information on the project can be seen here: ___
